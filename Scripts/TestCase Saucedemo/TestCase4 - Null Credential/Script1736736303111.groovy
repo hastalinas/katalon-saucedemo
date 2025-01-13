@@ -23,17 +23,13 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://www.saucedemo.com/')
 
-WebUI.setText(findTestObject('Object Repository/Add to cart/Page_Swag Labs/input_Swag Labs_user-name'), 'standard_user')
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_user-name'), '')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Add to cart/Page_Swag Labs/input_Swag Labs_password'), 'qcu24s4901FyWDTwXGr6XA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_password'), '')
 
-WebUI.click(findTestObject('Object Repository/Add to cart/Page_Swag Labs/input_Swag Labs_login-button'))
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_login-button'))
 
-WebUI.click(findTestObject('Object Repository/Add to cart/Page_Swag Labs/button_Add to cart'))
-
-WebUI.click(findTestObject('Object Repository/Add to cart/Page_Swag Labs/a_1'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Add to cart/Page_Swag Labs/span_Your Cart'), 'Your Cart')
+WebUI.verifyElementText(findTestObject('Page_Swag Labs/h3_Epic sadface Username is required'), 'Epic sadface: Username is required')
 
 WebUI.closeBrowser()
 
