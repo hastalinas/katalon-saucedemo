@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TestCase1</name>
+   <name>TestCase3 - For Looping</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>eecc0d3c-365a-43f7-9934-79a9d52e4dd5</testCaseGuid>
+   <testCaseGuid>3df23da2-85b5-4149-8e1e-b08f73008984</testCaseGuid>
 </TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Invalid Credential</description>
-   <name>TestCase2</name>
+   <description></description>
+   <name>TestCase1 - Login Valid</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>cf38f69c-388b-4053-9b81-9ef071f3924d</testCaseGuid>
+   <testCaseGuid>eecc0d3c-365a-43f7-9934-79a9d52e4dd5</testCaseGuid>
 </TestCaseEntity>
