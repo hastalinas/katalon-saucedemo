@@ -15,14 +15,14 @@
       <guid>92506976-484d-4686-a8db-c307ed8becd4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/TestCase1</testCaseId>
+      <testCaseId>Test Cases/Login/TestCase1 - Login Valid</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>e5077386-84c8-4ff7-b912-0776226fdc31</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/TestCase2</testCaseId>
+      <testCaseId>Test Cases/Login/TestCase2 -Invalid Credential</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
